@@ -46,12 +46,8 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-hani&layout=compact&theme=tokyonight)](https://github.com/coder-hani/github-readme-stats)
-[![Ilies's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder-hani&show_icons=true&theme=tokyonight)](https://github.com/coder-hani/github-readme-stats)
+[![Hani GitHub stats](https://github-readme-stats.vercel.app/api?username=coder-hani&show_icons=true&theme=tokyonight)](https://github.com/coder-hani/github-readme-stats)
 
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-hani&show_icons=true&locale=en&layout=compact" alt="coder-hani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-hani&" alt="coder-hani" /></p>
 
